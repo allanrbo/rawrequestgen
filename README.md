@@ -1,8 +1,8 @@
 # rawrequestgen
 
-Download: https://github.com/allanrbo/rawrequestgen/releases/download/1/rawrequestgen.exe
+Takes an input file with an HTTP requests and sends it almost raw on a socket.
 
-Takes an input file and sends it almost raw on a socket.
+Download: https://github.com/allanrbo/rawrequestgen/releases/download/1/rawrequestgen.exe
 
 Usage: rawrequestgen.exe example.com request1.txt [--print-request] [--ssl]
 
